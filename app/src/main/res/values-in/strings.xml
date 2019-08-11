@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Home</string>
+    <string name="app_name">Katalog Movie</string>
+    <string name="title_menu_movies">Film</string>
+    <string name="title_menu_tvshow">Acara TV</string>
+
+    <string name="image_poster">Gambar Poster</string>
+    <string name="date_relealesed">Tanggal Rilis</string>
+    <string name="star_icon">ikon bintang</string>
+    <string name="timer_icon">ikon jam</string>
+    <string name="title">Judul</string>
+    <string name="first_line">garis_pertama</string>
+    <string name="second_line">garis_kedua</string>
+    <string name="languange">Indonesia</string>
+    <string name="detail_overview">gambaran detail</string>
+    <string name="change_language_settings">Konfigurasi Bahasa</string>
+
+
+    <string name="vote_average">Suara rata-rata</string>
+    <string name="vote_count">Penghitungan Suara</string>
+
+</resources>
